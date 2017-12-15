@@ -1,0 +1,14 @@
+gcc-c++
+epel-release
+python-devel
+python-setuptools
+wget
+curl
+vim
+git
+lynx
+mysql
+python-pip
+php-mysql
+mariadb-server mariadb
+httpd
